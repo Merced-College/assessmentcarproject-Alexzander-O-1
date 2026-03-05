@@ -1,5 +1,7 @@
 //Alexzander Oates
 //3/5/26
+//i couldn't get past trying to read a csv file cause it wouldn't even run i never got to 
+//attempt at sorting and serching
 
 import java.io.*;
 import java.util.*;
